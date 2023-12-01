@@ -13,10 +13,10 @@ Proyecto página web HTML de Mario Hernández Santos 1B Ingeniería Informática
 
 <!-- Sobre el Proyecto -->
 ## Sobre el Proyecto
-<p> Mi página web consta de
+<p> Mi página web consta de una primera página (índice) que hace de portada, un apartado sobre mi en el que he añadido información relevante sobre mis proyectos y aptitudes.
 
 
-Si has llegado hasta aquí te comentaré lo siguiente: he añadido easter-egg  
+Si has llegado hasta aquí te comentaré lo siguiente: he añadido easter-egg en la página de "red". Allí si bajas un poco hay un botón que si lo pulsas te lleva a mi primera página web, la cual está colgada en internet mediante un alojador de páginas web gratis llamado Webhost000. Trás hacer click podrás jugar al juego del ping-pong que programé en java, espero que lo disfrutes.
 </p>
 
 
