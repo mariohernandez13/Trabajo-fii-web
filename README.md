@@ -23,6 +23,8 @@ Si has llegado hasta aquí te comentaré lo siguiente: he añadido easter-egg en
 ## Problemas durante el proyecto
 <p>Uno de los principales problemas a la hora de programar la web ha sido la parte de CSS. En primer lugar, había hecho más de una hoja de estilos pero al darme cuenta las junté en una sola hoja. También me ha costado alinear los elementos y tratar de que todo cuadrase y quedara más o menos ordenado. Por otro lado, elegir los colores, el fondo de la página y el tipo letra me ha resultado tedioso, ya que dependiendo de cuál fuera hacia ilegible el texto.</p>
 
+<p>Otro gran problema ha sido a la hora de publicarlo en Github tener que enlazar las páginas web que estaban en diferentes carpetas. Me he liado mucho con los puntos y barras, pero finalmente he conseguido enlazarlas.</p>
+
 <p>La parte de HTML me ha resultado sencilla porque ya había creado otras páginas web, pero este proyecto me ha servido para hacer una página web mucho más profesional y no tan "nivel afionado". Me refiero a crear formularios, añadir enlaces a mis redes sociales o incluir información sobre mi (CV o Portafolio).</p>
 
 
